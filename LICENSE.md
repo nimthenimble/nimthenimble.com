@@ -1,5 +1,5 @@
 Attribution 3.0 Unported (CC BY 3.0)\
-Copyright (C) 2025 Nimthenimble.comgit
+Copyright (C) 2025 Nimthenimble.com
 
 ## You are free to
 
